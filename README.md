@@ -1,2 +1,2 @@
 # Proyecto_ED2
-INICIO
+Chat Para la Empresa : Mensajes Relevantes S.A.
